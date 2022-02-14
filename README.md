@@ -16,7 +16,7 @@
 ## GITHUB Interactions
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfellipe)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfellipe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
 Would you like to find me?
