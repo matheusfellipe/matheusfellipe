@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working with Front End Development
+- 🔭 I’m currently working with Node Back End Development
 - 🌱 I’m currently learning Node, React and React Native
 
 ## Technologies
