@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as Full Stack Developer with Node and React/Next
-- 🌱 I’m currently learning Clean Architecture and Micro Services
+- 🌱 I’m currently learning Micro Services
 
 ## Technologies
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
