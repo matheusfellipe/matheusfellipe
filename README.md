@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working as Full Stack Developer with Node and React/Next
-- 🌱 I’m currently learning Micro Services
+- 🔭 I’m currently working as Full Stack Developer with .NET and Angular
+- 🌱 I’m currently learning Event Sourcing, CQRS
 
 ## Technologies
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
