@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as Full Stack Developer with .NET and Angular
+- 🔭 I’m currently working as Full Stack Developer with .NET and React
 - 🌱 I’m currently learning Event Sourcing, CQRS
 
 ## Technologies
