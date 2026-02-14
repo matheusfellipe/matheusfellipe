@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I’m currently working as Full Stack Developer with .NET and React
-- 🌱 I’m currently learning Event Sourcing, CQRS
+- 🔭 I’m Full Stack Developer with a broad experience in .NET, NestJS, Angular and React. I have degree in system for internet and specialization in software engineer.
+- I've been working with modular monolith and microsservices, during my experiences i started projects from scratch being responsible for system design and architectural decisions 
+- I've already implemented features with AI and use it to enhance QA as well.
 
 ## Technologies
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
